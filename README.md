@@ -26,10 +26,6 @@ And you are good to go.
 1. This project takes the parameters of an used car like: Company name, Model name, Year of Purchase, Fuel Type and Number of Kilometers it has been driven.
 2. It then predicts the possible price of the car. For example, the image below shows the predicted price of our Hyundai Grand i10. 
 
-<img src="https://github.com/rajtilakls2510/car_price_predictor/blob/master/predict.png">
-
-
-
 
 3. Then a Linear Regression model was built on top of it which had 0.92 R2_score.
 
